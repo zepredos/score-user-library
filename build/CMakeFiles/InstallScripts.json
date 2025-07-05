@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/zep/score-user-library/build/cmake_install.cmake",
+		"/home/zep/score-user-library/build/backend/cmake_install.cmake",
+		"/home/zep/score-user-library/build/examples/hello-world/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

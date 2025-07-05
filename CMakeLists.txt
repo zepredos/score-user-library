@@ -3,4 +3,5 @@ project(score_user_library_backend LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 
 add_subdirectory(backend)
+add_subdirectory(examples/hello-world)
 

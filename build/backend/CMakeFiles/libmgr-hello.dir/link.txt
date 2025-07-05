@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/libmgr-hello.dir/link.d "CMakeFiles/libmgr-hello.dir/main.cpp.o" -o libmgr-hello

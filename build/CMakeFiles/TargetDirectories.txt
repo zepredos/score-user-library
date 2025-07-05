@@ -1,0 +1,8 @@
+/home/zep/score-user-library/build/CMakeFiles/edit_cache.dir
+/home/zep/score-user-library/build/CMakeFiles/rebuild_cache.dir
+/home/zep/score-user-library/build/backend/CMakeFiles/libmgr-hello.dir
+/home/zep/score-user-library/build/backend/CMakeFiles/edit_cache.dir
+/home/zep/score-user-library/build/backend/CMakeFiles/rebuild_cache.dir
+/home/zep/score-user-library/build/examples/hello-world/CMakeFiles/hello-world.dir
+/home/zep/score-user-library/build/examples/hello-world/CMakeFiles/edit_cache.dir
+/home/zep/score-user-library/build/examples/hello-world/CMakeFiles/rebuild_cache.dir
